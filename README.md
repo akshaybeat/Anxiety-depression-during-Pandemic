@@ -7,7 +7,7 @@ The surevy helps to measure 3 inidcators:
 2. Depression levels
 3. Anxiety or Depression Levels.
 
-This indictaors are measure on different levels such as: Age, Gender, Race, Education Level.
+This indicators are measure on different levels such as: Age, Gender, Race, Education Level.
 The analysis gave quite intresting results & helped the local health officials to understand the future challenges in post pandemic era.
 
 The Repositories includes:
